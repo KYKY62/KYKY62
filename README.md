@@ -6,20 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyky62" alt="kyky62" /></a> </p>
 
-- 📱Develop with Flutter [Expanse Tracker](https://www.mediafire.com/file/0u55prhq5fdnb1u/ExpanseTracker.apk/file)
-
-- 📱Develop with Flutter [Money Record](https://www.mediafire.com/file/zxaepdpzj1d3vdx/money_record.apk/file)
-
-- 📱Develop with Flutter [GetJadwal](https://www.mediafire.com/file/9y9ips45lyboe9k/GetJadwal.apk/file)
-
-- 👨‍💻HTML CSS and Bootsrap [Restaurant Web](https://resto17agustus.web.app/)
-
-- 👨‍💻 All of my projects are available at [https://portofolio2022-9582f.web.app/#/](https://portofolio2022-9582f.web.app/#/) 
-
-- 🌱 I’m currently learning **Flutter** 
-
-- 💬 Ask me about **Flutter**
-
+- 👨‍💻 All of my projects are available on my [Portofolio Webstite](https://portofolio2022-9582f.web.app/#/) 
 - 📫 How to reach me **rizkysrg62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
