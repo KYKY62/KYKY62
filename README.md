@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mobile developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyky62&label=Profile%20views&color=0e75b6&style=flat" alt="kyky62" /> </p>
-<p>[![wakatime](https://wakatime.com/badge/github/KYKY62/KYKY62.svg)](https://wakatime.com/badge/github/KYKY62/KYKY62)</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyky62" alt="kyky62" /></a> </p>
 
 - 👨‍💻 All of my projects are available on my [Portofolio Webstite](https://portofolio2022-9582f.web.app/#/) 
