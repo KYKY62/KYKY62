@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyky62" alt="kyky62" /></a> </p>
 
-- 👨‍💻 All of my projects are available on my [Portofolio Webstite](https://portofolio2022-9582f.web.app/#/) 
+- 👨‍💻 All of my projects are available on my [Portofolio Webstite](https://rizkyakbar.vercel.app/) 
 - 📫 How to reach me **rizkysrg62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
